@@ -1,2 +1,2 @@
-# machine_learning_career_path
+# Machine Learning Scientist Career Track
 machine learning from 365datascience
